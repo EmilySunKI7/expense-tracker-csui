@@ -1,0 +1,43 @@
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.csproj.AssemblyReference.cache
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.Form1.resources
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.csproj.GenerateResource.cache
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.AssemblyInfoInputs.cache
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.AssemblyInfo.cs
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.csproj.CoreCompileInputs.cache
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Home Expense Tracking App.deps.json
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Home Expense Tracking App.runtimeconfig.json
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Home Expense Tracking App.exe
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\ExpenseTrackerWinForms.exe
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\ExpenseTrackerWinForms.deps.json
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\ExpenseTrackerWinForms.runtimeconfig.json
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\ExpenseTrackerWinForms.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\ExpenseTrackerWinForms.pdb
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Home Expense Tracking App.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Home Expense Tracking App.pdb
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\refint\ExpenseTrackerWinForms.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.pdb
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.genruntimeconfig.cache
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ref\ExpenseTrackerWinForms.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\ExpenseTrackerWinForms.dll.config
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.FormExpense.resources
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.FormSearch.resources
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.FormExpenseCategory.resources
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseTrackerWinForms.FormMonthlySatement.resources
+C:\Users\emily\source\repos\ExpenseTrackerWinForms\obj\Debug\net8.0-windows\ExpenseT.C0B87BC7.Up2Date
